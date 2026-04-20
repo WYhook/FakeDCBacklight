@@ -3,12 +3,12 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 35
 
     defaultConfig {
         applicationId "com.ztc1997.fakedcbacklight"
         minSdkVersion 31
-        targetSdkVersion 32
+        targetSdkVersion 35
         versionCode 7
         versionName '1.2.1'
 
